@@ -193,4 +193,4 @@ OPTIONAL
 
 Write the command that you used below.
 ----------
-cp *.txt archive
+cp *.txt /Users/student
